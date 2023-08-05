@@ -9,8 +9,14 @@ module.exports = {
       sidebargraylight: "#D8DCE0",
       sidebargraybackground: "#373E4A",
       success: "#00C896",
+      background: "#3C343D",
+      backgroundBorder: "#6B626C",
     },
-    extend: {},
+    extend: {
+      fontFamily: {
+        poppins: "'Poppins', sans-serif",
+      },
+    },
   },
   plugins: [],
 };
