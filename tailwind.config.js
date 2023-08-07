@@ -59,3 +59,12 @@ module.exports = {
   },
   plugins: [],
 };
+// The X account, @sopsy_c only recreated the orignal code using
+// react and tailwindcss,
+//  the original code was written by David Marez and thanks to him.
+//  Published originally on:
+// twitter https://twitter.com/davidm_ml/status/1686664642272096256
+// github:https://github.com/atherosai/ui/tree/main/menu-02
+// hover effect inspired by
+// https://codepen.io/team/css-tricks/pen/OJOXWPp
+// Font used: family=Poppins
