@@ -5,6 +5,9 @@ module.exports = {
     screens: { nM: { max: "600px" } },
     // => @media (max-width: 600px) { ... },
     colors: {
+      // for parallex
+      background2: "#3c343d",
+      backgroundBorder2: "#6b626c",
       // for menubar
       primary: "#dd946f",
       primaryhover: "#cd7d7c",
