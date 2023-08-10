@@ -26,3 +26,10 @@ function Parallex() {
 }
 
 export default Parallex;
+// The X account, @sopsy_c only recreated the orignal code using
+// react and tailwindcss,
+//  the original code was written by David Marez and thanks to him.
+//  Published originally on:
+// https://twitter.com/davidm_ml/status/1687747865660055552
+// https://github.com/atherosai/ui/tree/main/parallax-01
+// Font used: family=Poppins

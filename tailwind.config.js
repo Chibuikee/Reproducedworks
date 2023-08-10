@@ -5,6 +5,9 @@ module.exports = {
     screens: { nM: { max: "600px" } },
     // => @media (max-width: 600px) { ... },
     colors: {
+      // button02
+      backgroundbtn: "#2C2C2C",
+      accent: "#FF9950",
       // for parallex
       background2: "#3c343d",
       backgroundBorder2: "#6b626c",
@@ -26,6 +29,7 @@ module.exports = {
     extend: {
       fontFamily: {
         poppins: "'Poppins', sans-serif",
+        mulish: "'Mulish', sans-serif",
       },
       keyframes: {
         fadein: {
@@ -62,12 +66,3 @@ module.exports = {
   },
   plugins: [],
 };
-// The X account, @sopsy_c only recreated the orignal code using
-// react and tailwindcss,
-//  the original code was written by David Marez and thanks to him.
-//  Published originally on:
-// twitter https://twitter.com/davidm_ml/status/1686664642272096256
-// github:https://github.com/atherosai/ui/tree/main/menu-02
-// hover effect inspired by
-// https://codepen.io/team/css-tricks/pen/OJOXWPp
-// Font used: family=Poppins

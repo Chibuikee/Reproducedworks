@@ -1,10 +1,12 @@
 // import GallaryDesignAndEffect from "./components/gallaryDesign/gallaryDesignAndEffect";
 // import Narbar from "./components/menuBAr/Narbar";
-import Parallex from "./components/parallex/parallex";
+import Button from "./components/button02/button";
+// import Parallex from "./components/parallex/parallex";
 // import SideBar from "./components/sideBar";
 
 function App() {
-  return <Parallex />;
+  return <Button />;
+  // return <Parallex />;
   // return <Narbar />;
   // return <GallaryDesignAndEffect />;
   // return <SideBar />;
