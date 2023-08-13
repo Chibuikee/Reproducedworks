@@ -8,7 +8,7 @@ function Button() {
            text-[white] outline-[white] outline-offset-0
         text-base drop-shadow-none cursor-pointer max-w-[160px] leading-[2.5rem] 
         w-full tracking-[0.3rem] font-semibold
-        relative uppercase flex justify-center transition-all duration-[550ms] ease-[cubic-bezier(.36,.63,.5,.73)]
+        relative uppercase flex justify-center transition-all duration-[550ms] ease-[cubic-bezier(.36,.63,.5,.73]
         hover:border-[2px] hover:border-solid hover:border-accent hover:outline-[rgba(255,255,255,0)]
          hover:outline-offset-[15px] hover:text-accent"
           title="Learn"
